@@ -1,8 +1,6 @@
-🔬 Science geek
-
-🖥 IT geek
-
-🎵 Music geek
+- 🔬 Science geek
+- 🖥 IT geek
+- 🎵 Music geek
 
 I generally to build things that solve problems with code and data. Among my open-source repositories you'll find:
 
@@ -34,7 +32,7 @@ I also write technical articles (mostly about usages of Platypush to solve home 
 
 Things I enjoy doing when AFK:
 
-🎸 Play, record, produce and perform
-🏄 Chase waves
-🍺 Enjoy craft beer
-👪 Grow a new geek
+- 🎸 Play, record, produce and perform
+- 🏄 Chase waves
+- 🍺 Enjoy craft beer
+- 👪 Grow a new geek
