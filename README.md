@@ -1,5 +1,7 @@
 🔬 Science geek
+
 🖥 IT geek
+
 🎵 Music geek
 
 I generally to build things that solve problems with code and data. Among my open-source repositories you'll find:
