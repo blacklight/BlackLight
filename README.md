@@ -30,7 +30,7 @@ I also write technical articles (mostly about usages of Platypush to solve home 
 
 📫 Feel free to contact me on info fabiomanganiello.com or on [Twitter](https://twitter.com/BlackLight01).
 
-Things I enjoy doing when AFK:
+Things I enjoy when AFK:
 
 - 🎸 Play, record, produce and perform
 - 🏄 Chase waves
