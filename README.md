@@ -1,3 +1,5 @@
+![BlackLight's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackLight&show_icons=true&theme=light&include_all_commits=true)
+
 - 🔬 Science geek
 - 🖥 IT geek
 - 🎵 Music geek
