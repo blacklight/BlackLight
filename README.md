@@ -30,7 +30,7 @@ I also write technical articles (mostly about usages of Platypush to solve home 
 
 👯 Currently looking for collaborators to help me with Platypush - it's starting to be a quite large beast and I'd love to have more developers building more integrations and more testers testing them.
 
-📫 Feel free to contact me on info fabiomanganiello.com or on [Twitter](https://twitter.com/BlackLight01).
+📫 Feel free to contact me on info fabiomanganiello.com or on <a rel="me" href="https://social.platypush.tech/@blacklight">🦣 Mastodon</a>
 
 Things I enjoy when AFK:
 
