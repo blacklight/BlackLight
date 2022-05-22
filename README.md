@@ -6,7 +6,7 @@
 
 I generally like to build things that solve problems with code and data. Among my open-source repositories you'll find:
 
-- [Platypush](https://github.com/BlackLight/platypush). That's the main project I have been working on over the past couple of years. It's a general-purpose platform to connect integrations (which cover everything from MQTT to cameras, from smart lights to Google services, from Arduino and ESP8266 devices to machine learning models, and so on) to one another through a consistent UI and backend interface. It also enables users to create arbitrary complex automation routines when events happen. It also comes with a power [web extension](https://github.com/BlackLight/platypush-webext).
+- [Platypush](https://github.com/BlackLight/platypush). That's the main project I have been working on over the past couple of years. With the motto "build anything, automate everything", it's a general-purpose platform to connect integrations (which cover everything from MQTT to cameras, from smart lights to Google services, from Arduino and ESP8266 devices to machine learning models, and so on) to one another through a consistent UI and backend interface. It also enables users to create arbitrary complex automation routines when events happen. It also comes with a power [web extension](https://github.com/BlackLight/platypush-webext).
 
 - [micmon](https://github.com/BlackLight/micmon) - a general-purpose Python library and set of tools for audio detection through Fourier analysis and Tensorflow.
 
