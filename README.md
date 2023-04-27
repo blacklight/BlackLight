@@ -30,13 +30,9 @@ I also write technical articles (mostly about usages of Platypush to solve home 
 
 🏆 My contributions have been awarded with the [IoT contributor of the year 2020 HackerNoon prize](https://noonies.tech/award/hacker-noon-contributor-of-the-year-iot).
 
-👯 Currently looking for collaborators to help me with Platypush - it's starting to be a quite large beast and I'd love to have more developers building more integrations and more testers testing them.
-
-📫 Feel free to contact me on info fabiomanganiello.com or on <a rel="me" href="https://social.platypush.tech/@blacklight">🦣 Mastodon</a>
-
 Things I enjoy when AFK:
 
 - 🎸 Play, record, produce and perform
 - 🏄 Chase waves
 - 🍺 Enjoy craft beer
-- 👪 Grow a new geek
+- 👪 Raise a new geek
