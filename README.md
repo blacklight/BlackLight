@@ -1,8 +1,8 @@
+[![committers.top badge](https://user-badge.committers.top/netherlands_public/BlackLight.svg)](https://user-badge.committers.top/netherlands_public/BlackLight)
+
 ![BlackLight's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackLight&show_icons=true&theme=light&include_all_commits=true)
 
 ![My language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackLight)
-
-[![committers.top badge](https://user-badge.committers.top/netherlands_public/BlackLight.svg)](https://user-badge.committers.top/netherlands_public/BlackLight)
 
 - 🔬 Science geek
 - 🖥 IT geek
