@@ -14,7 +14,7 @@ I generally like to build things that solve problems with code and data. Among m
 
 - [micmon](https://github.com/BlackLight/micmon) - a general-purpose Python library and set of tools for audio detection through Fourier analysis and Tensorflow.
 
-- [theremin](https://github.com/BlackLight/theremin), an touchless, hands-in-air digital implementation of a [Theremin](https://en.wikipedia.org/wiki/Theremin) musical instrument through a Leap Motion device.
+- [theremin](https://github.com/BlackLight/theremin), a contactless, hands-in-air digital implementation of a [Theremin](https://en.wikipedia.org/wiki/Theremin) musical instrument through a Leap Motion device.
 
 - [Snort_AIPreproc](https://github.com/BlackLight/Snort_AIPreproc), a machine learning module for the intrusion detection system Snort that removes the noise from the logs, clusters similar alerts together, finds common causal links between alerts and predicts the next step in a multi-step attack scenario.
 
