@@ -1,10 +1,10 @@
 [![committers.top badge](https://user-badge.committers.top/netherlands_public/BlackLight.svg)](https://user-badge.committers.top/netherlands_public/blacklight)
 
 ![BlackLight's GitHub stats](https://github-readme-stats.vercel.app/api?username=blacklight&rank_icon=percentile&show_icons=true)
+![My language stats](https://raw.githubusercontent.com/blacklight/github-stats/master/generated/languages.svg)
 
 [![Github profile trophys](https://github-profile-trophy.vercel.app/?username=blacklight)](https://github.com/ryo-ma/github-profile-trophy)
 
-![My language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=blacklight&langs_count=8)
 
 - 🔬 Science geek
 - 🖥 IT geek
