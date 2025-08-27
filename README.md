@@ -3,7 +3,7 @@
 ![BlackLight's GitHub stats](https://github-readme-stats.vercel.app/api?username=blacklight&show_icons=true)
 ![My language stats](https://raw.githubusercontent.com/blacklight/github-stats/master/generated/languages.svg)
 
-[![Github profile trophys](https://trophygh.kolioaris.xyz/?username=blacklight/?username=blacklight)](https://github.com/ryo-ma/github-profile-trophy)
+[![Github profile trophys](https://trophygh.kolioaris.xyz/?username=blacklight)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 🔬 Science geek
