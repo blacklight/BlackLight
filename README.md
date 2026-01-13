@@ -2,11 +2,12 @@
 ![My language stats](https://raw.githubusercontent.com/blacklight/github-stats/master/generated/languages.svg)
 [![Github profile trophys](https://github-profile-trophy-fork-two.vercel.app/?username=blacklight)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔬 Science geek
-- 🖥 IT geek
-- 🎵 Music geek
-
-I generally like to build things that solve problems with code and data.
+```
+-----BEGIN GEEK CODE BLOCK-----
+Version: 3.1
+GCS/CM/E/MU d-- C++$ UL++++$ P++ L+++$ E--- W+++ N+++ w--- M-- PS++ PE- Y++ PGP+++ t+ tv b++ DI+++ e+++ h----
+------END GEEK CODE BLOCK------
+```
 
 ### 🛠️ Notable Repositories
 
