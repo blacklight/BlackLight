@@ -45,6 +45,13 @@ I also write technical articles (mostly about usages of Platypush to solve home 
 
 - [Hackernoon 2022 contributor of the year (**Proof of Stake**)](https://noonies.hackernoon.com/2022/web3/2022-hackernoon-contributor-of-the-year-proof-of-stake)
 
+### 📩 Contacts
+
+- 🗣️ **Fediverse**: [@fabio@manganiello.eu](https://manganiello.eu/@fabio)
+- 📧 **Email**: [fabio@manganiello.tech](mailto:fabio@manganiello.tech)
+- 💬 **XMPP**: [fabio@manganiello.tech](xmpp://fabio@manganiello.tech)
+- 💬 **Matrix**: [@fabio:manganiello.tech](https://matrix.to/#/@fabio:manganiello.tech)
+
 ### 🏃‍♂️ Things I enjoy AFK
 
 - 🎸 Play, record, produce and perform
