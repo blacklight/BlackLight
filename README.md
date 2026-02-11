@@ -11,13 +11,15 @@ GCS/CM/E/MU d-- C++$ UL++++$ P++ L+++$ E--- W+++ N+++ w--- M-- PS++ PE- Y++ PGP+
 
 ### 🛠️ Notable Repositories
 
-- [Platypush](https://github.com/blacklight/platypush). That's the main project I have been working on over the past couple of years. With the motto "build anything, automate everything", it's a general-purpose platform to connect integrations (covering everything from MQTT to cameras, from smart lights to Google services, from Arduino and ESP8266 devices to machine learning models, from social and messaging platforms to calendars, and so on) to one another through a consistent UI and backend interface. It also enables users to create arbitrary complex automation routines when events happen. It also comes with a powerful [web extension](https://github.com/BlackLight/platypush-webext).
+- [Platypush](https://github.com/blacklight/platypush). the project that kept me most busy over the past couple of years. With the motto "build anything, automate everything", it's a general-purpose platform to connect integrations (covering everything from MQTT to cameras, from smart lights to Google services, from Arduino and ESP8266 devices to machine learning models, from social and messaging platforms to calendars, and so on) to one another through a consistent UI and backend interface. It also enables users to create arbitrary complex automation routines when events happen. It also comes with a powerful [web extension](https://github.com/BlackLight/platypush-webext).
 
 - [GPSTracker](https://github.com/blacklight/gpstracker): a full-featured self-hosted Web app to store your GPS data points, render them on timelines, search for activities by geographical area or time, and run statistics on them.
 
 - [nvim-http](https://github.com/blacklight/nvim-http): a plugin to run HTTP request files in nvim. Inspired by (and compatible with) the HTTP requests plugins provided by JetBrains and VSCode.
 
-- [madblog](https://github.com/blacklight/madblog): a minimal, but powerfully elegant, blogging platform. No database, no JavaScript, only pure Markdown. It can run a visually appealing blog from any Markdown folder.
+- [webmentions](https://github.com/blacklight/webmentions): a battery-included library with a simple API that allows you to easily plug [Webmentions](https://www.w3.org/TR/webmention/) support in your website.
+
+- [madblog](https://github.com/blacklight/madblog): a minimal, but powerfully elegant, blogging platform. No database, no JavaScript, only pure Markdown. It can run a visually appealing blog from any Markdown folder. It also uses [webmentions](https://github.com/blacklight/webmentions) to handle federated mentions.
 
 - [micmon](https://github.com/blacklight/micmon): a general-purpose Python library and set of tools for audio detection through Fourier analysis and Tensorflow.
 
