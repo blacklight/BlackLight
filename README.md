@@ -35,9 +35,10 @@ GCS/CM/E/MU d-- C++$ UL++++$ P++ L+++$ E--- W+++ N+++ w--- M-- PS++ PE- Y++ PGP+
 
 - [Voxifera](https://github.com/BlackLight/Voxifera): (probably) one of the earliest examples of voice assistants I'm aware of - I built it back in 2008 but it's largely discontinued now.
 
-Plus, you'll probably find me collaborating to a few other dozens of repos - since Platypush comes with lots of integrations I often come to work closely with developers of other projects.
+### 📑 Blogs
 
-I also write technical articles (mostly about usages of Platypush to solve home automation, IoT and machine learning problems) that you can find, among the others, on [Medium](https://automationguru.medium.com/), on [my website](https://fabiomanganiello.com/) and [HackerNoon](https://hackernoon.com/u/BlackLight).
+- [Personal blog](https://blog.fabiomanganiello.com) ([Writefreely mirror](https://manganiello.blog))
+- [Platypush blog](https://blog.platypush.tech)
 
 ### 🏆 Awards
 
