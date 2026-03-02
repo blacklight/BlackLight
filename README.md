@@ -1,6 +1,6 @@
 [![BlackLight's GitHub stats](https://raw.githubusercontent.com/blacklight/github-stats/master/generated/overview.svg)](https://github.com/blacklight/github-stats)
 ![My language stats](https://raw.githubusercontent.com/blacklight/github-stats/master/generated/languages.svg)
-[![Github profile trophys](https://github-profile-trophy-fork-two.vercel.app/?username=blacklight)](https://github.com/ryo-ma/github-profile-trophy)
+[![Github profile trophys](https://s3.fabiomanganiello.com/fabio/img/github-trophys.svg)](https://github.com/blacklight/github-profile-trophy)
 
 ```
 -----BEGIN GEEK CODE BLOCK-----
