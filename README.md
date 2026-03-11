@@ -18,7 +18,9 @@ GCS/CM/E/MU d-- C++$ UL++++$ P++ L+++$ E--- W+++ N+++ w--- M-- PS++ PE- Y++ PGP+
 
 - [nvim-http](https://github.com/blacklight/nvim-http): a plugin to run HTTP request files in nvim. Inspired by (and compatible with) the HTTP requests plugins provided by JetBrains and VSCode.
 
-- [webmentions](https://github.com/blacklight/webmentions): a batteries-included library with a simple API that allows you to easily plug [Webmentions](https://www.w3.org/TR/webmention/) support in your website.
+- [pubby](https://github.com/blacklight/pubby): a batteries-included library with a simple API that allows you to easily plug [ActivityPub](https://www.w3.org/TR/activitypub/) support into your website.
+
+- [webmentions](https://github.com/blacklight/webmentions): a batteries-included library with a simple API that allows you to easily plug [Webmentions](https://www.w3.org/TR/webmention/) support into your website.
 
 - [madblog](https://github.com/blacklight/madblog): a minimal, but powerfully elegant, blogging platform. No database, no JavaScript, only pure Markdown. It can run a visually appealing blog from any Markdown folder. It also uses [webmentions](https://github.com/blacklight/webmentions) to handle federated mentions.
 
