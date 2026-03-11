@@ -1,6 +1,7 @@
 [![BlackLight's GitHub stats](https://raw.githubusercontent.com/blacklight/github-stats/master/generated/overview.svg)](https://github.com/blacklight/github-stats)
 ![My language stats](https://raw.githubusercontent.com/blacklight/github-stats/master/generated/languages.svg)
-[![Github profile trophys](https://s3.fabiomanganiello.com/fabio/img/github-trophys.svg?v=1)](https://github.com/blacklight/github-profile-trophy)
+[![Github profile trophys](https://s3.fabiomanganiello.com/fabio/img/github-trophys.svg?v=2)](https://github.com/blacklight/github-profile-trophy)
+[![committers.top badge](https://user-badge.committers.top/netherlands/blacklight.svg)](https://user-badge.committers.top/netherlands/blacklight)
 
 ```
 -----BEGIN GEEK CODE BLOCK-----
