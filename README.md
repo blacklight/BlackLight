@@ -40,15 +40,13 @@ GCS/CM/E/MU d-- C++$ UL++++$ P++ L+++$ E--- W+++ N+++ w--- M-- PS++ PE- Y++ PGP+
 
 ### 📑 Blogs
 
-- [Personal blog](https://blog.fabiomanganiello.com) ([Writefreely mirror](https://manganiello.blog))
-- [Platypush blog](https://blog.platypush.tech)
+- [Personal blog](https://blog.fabiomanganiello.com) (also federated at `@fabio@manganiello.blog`)
+- [Platypush blog](https://blog.platypush.tech) (also federated at `@blog@platypush.tech`)
 
 ### 🏆 Awards
 
 - [Hackernoon 2020 contributor of the year (**IoT**)](https://noonies.tech/award/hacker-noon-contributor-of-the-year-iot)
-
 - [Hackernoon 2022 contributor of the year (**Distributed Systems**)](https://noonies.hackernoon.com/2022/emerging-tech/2022-hackernoon-contributor-of-the-year-distributed-systems)
-
 - [Hackernoon 2022 contributor of the year (**Proof of Stake**)](https://noonies.hackernoon.com/2022/web3/2022-hackernoon-contributor-of-the-year-proof-of-stake)
 
 ### 📩 Contacts
