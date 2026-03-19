@@ -3,6 +3,12 @@
 [![Github profile trophys](https://s3.fabiomanganiello.com/fabio/img/github-trophys.svg?v=3)](https://github.com/blacklight/github-profile-trophy)
 [![committers.top badge](https://user-badge.committers.top/netherlands/blacklight.svg)](https://user-badge.committers.top/netherlands/blacklight)
 
+[![Home](https://img.shields.io/badge/-Home-bb88cc?logo=google-home)](https://fabiomanganiello.com)
+[![ActivityPub contact](https://img.shields.io/badge/-ActivityPub-03070A?logo=activitypub)](https://manganiello.eu/@fabio)
+[![E-mail](https://img.shields.io/badge/-Email-a3271A?logo=mail.ru)](mailto:fabio@manganiello.tech)
+[![XMPP contact](https://img.shields.io/badge/-XMPP-33678A?logo=xmpp)](xmpp://fabio@manganiello.tech)
+[![Matrix contact](https://img.shields.io/badge/-Matrix-33875A?logo=matrix)](https://matrix.to/#/@fabio:manganiello.tech)
+
 ```
 -----BEGIN GEEK CODE BLOCK-----
 Version: 3.1
