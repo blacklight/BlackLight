@@ -18,31 +18,174 @@ GCS/CM/E/MU d-- C++$ UL++++$ P++ L+++$ E--- W+++ N+++ w--- M-- PS++ PE- Y++ PGP+
 
 ### 🛠️ Notable Repositories
 
-- [Platypush](https://github.com/blacklight/platypush). the project that kept me most busy over the past couple of years. With the motto "build anything, automate everything", it's a general-purpose platform to connect integrations (covering everything from MQTT to cameras, from smart lights to Google services, from Arduino and ESP8266 devices to machine learning models, from social and messaging platforms to calendars, and so on) to one another through a consistent UI and backend interface. It also enables users to create arbitrary complex automation routines when events happen. It also comes with a powerful [web extension](https://github.com/BlackLight/platypush-webext).
+<table>
+  <thead>
+    <tr>
+      <th width="30%">📂 Project</th>
+      <th width="70%">✏️ Description</th>
+    </tr>
+  </thead>
 
-- [GPSTracker](https://github.com/blacklight/gpstracker): a full-featured self-hosted Web app to store your GPS data points, render them on timelines, search for activities by geographical area or time, and run statistics on them.
-
-- [nvim-http](https://github.com/blacklight/nvim-http): a plugin to run HTTP request files in nvim. Inspired by (and compatible with) the HTTP requests plugins provided by JetBrains and VSCode.
-
-- [pubby](https://github.com/blacklight/pubby): a batteries-included library with a simple API that allows you to easily plug [ActivityPub](https://www.w3.org/TR/activitypub/) support into your website.
-
-- [webmentions](https://github.com/blacklight/webmentions): a batteries-included library with a simple API that allows you to easily plug [Webmentions](https://www.w3.org/TR/webmention/) support into your website.
-
-- [madblog](https://github.com/blacklight/madblog): a minimal, but powerfully elegant, blogging platform. No database, no JavaScript, only pure Markdown. It can run a visually appealing blog from any Markdown folder. It also uses [webmentions](https://github.com/blacklight/webmentions) to handle federated mentions.
-
-- [micmon](https://github.com/blacklight/micmon): a general-purpose Python library and set of tools for audio detection through Fourier analysis and Tensorflow.
-
-- [theremin](https://github.com/blacklight/theremin): a contactless, hands-in-air digital implementation of a [Theremin](https://en.wikipedia.org/wiki/Theremin) musical instrument through a Leap Motion device.
-
-- [Snort_AIPreproc](https://github.com/blacklight/Snort_AIPreproc): a machine learning module for the intrusion detection system Snort that removes the noise from the logs, clusters similar alerts together, finds common causal links between alerts and predicts the next step in a multi-step attack scenario.
-
-- [fsom](https://github.com/blacklight/fsom): a C library for managing [Self-Organizing Maps](https://en.wikipedia.org/wiki/Self-organizing_map).
-
-- [fkmeans](https://en.wikipedia.org/wiki/Self-organizing_map): a C library to perform [K-means clustering](https://en.wikipedia.org/wiki/K-means_clustering).
-
-- [nash](https://github.com/blacklight/nash): a small program to analyze Nash equilibrium situations in scenarios where the initial costs are known.
-
-- [Voxifera](https://github.com/BlackLight/Voxifera): (probably) one of the earliest examples of voice assistants I'm aware of - I built it back in 2008 but it's largely discontinued now.
+  <tbody>
+    <tr>
+      <td style="text-align: center">
+        <span style="display: block; margin-bottom: 0.5em">
+          <a href="https://git.platypush.tech/platypush"><b>⚙️ Platypush</b></a>
+        </span>
+        <span style="display: block; margin-top: 0.5em">
+          <a href="https://github.com/blacklight/platypush"><img alt="Github stars" src="https://img.shields.io/github/stars/blacklight/platypush?style=flat&logo=Github" style="display: inline-block"></a>
+        </span>
+        </a>
+      </td>
+      <td>
+        Platypush is an ambitious general-purpose platform for automation, IoT, media streaming and more that has kept me busy since 2015. Or, as some call it, <a href="https://www.home-assistant.io/" target="_blank">Home Assistant</a>'s geeker brother. It provides <a href="https://docs.platypush.tech/" target="_blank">hundreds of supported integrations</a>, covering everything from MQTT to cameras, from smart lights to Google services, from Arduino and ESP8266 devices to machine learning models, from social and messaging platforms to calendars, and more. to one another through a consistent UI and backend interface. It also enables users to create arbitrary complex automation routines when events happen. It also comes with a powerful <a href="https://git.platypush.tech/platypush/platypush-webext" target="_blank">web extension</a>.
+      <td>
+    </tr>
+    <tr>
+      <td style="text-align: center">
+        <span style="display: block; margin-top: 0.5em">
+          <a href="https://github.com/blacklight/madblog" target="_blank"><b>📖 Madblog</b></a>
+        </span>
+        <span style="display: block; margin-top: 0.5em">
+          <a href="https://github.com/blacklight/madblog"><img alt="Github stars" src="https://img.shields.io/github/stars/blacklight/madblog?style=flat&logo=Github" style="display: inline-block"></a>
+        </span>
+      </td>
+      <td>
+        Madblog is a powerful blogging engine that natively supports Webmentions and federation over ActivityPub. It's a strongly opinionated platform based on simplicity. No databases, no JavaScript, no write APIs, no authentication: your blog is a folder of Markdown files. You can run Madblog on top of an Obsidian vault, a Nextcloud shared directory, a git clone, and much more.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">
+        <span style="display: block; margin-top: 0.5em">
+          <a href="https://git.fabiomanganiello.com/gpstracker" target="_blank"><b>📍 GPSTracker</b></a>
+        </span>
+        <span style="display: block; margin-top: 0.5em">
+          <a href="https://github.com/blacklight/gpstracker"><img alt="Github stars" src="https://img.shields.io/github/stars/blacklight/gpstracker?style=flat&logo=Github" style="display: inline-block"></a>
+        </span>
+      </td>
+      <td>
+        A full-featured self-hosted Web app to store your GPS data points, render them on timelines, search for activities by geographical area or time, and run statistics on them. A crossing between <a href="https://support.google.com/maps/answer/6258979" target="_blank">Google Maps Timeline</a> and <a href="https://www.swarmapp.com/" target="_blank">Foursquare's Swarm</a>, but self-hosted and Web-based.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">
+        <span style="display: block; margin-top: 0.5em">
+          <a href="https://github.com/blacklight/nvim-http" target="_blank"><b>✏️ nvim-http</b></a>
+        </span>
+        <span style="display: block; margin-top: 0.5em">
+          <a href="https://github.com/blacklight/nvim-http"><img alt="Github stars" src="https://img.shields.io/github/stars/blacklight/nvim-http?style=flat&logo=Github" style="display: inline-block"></a>
+        </span>
+      </td>
+      <td>
+        A plugin to run HTTP request files in nvim. Inspired by (and compatible with) the HTTP requests plugins provided by JetBrains and VSCode.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">
+        <span style="display: block; margin-top: 0.5em">
+          <a href="https://git.fabiomanganiello.com/pubby" target="_blank"><b>🌐 Pubby</b></a>
+        </span>
+        <span style="display: block; margin-top: 0.5em">
+          <a href="https://github.com/blacklight/pubby"><img alt="Github stars" src="https://img.shields.io/github/stars/blacklight/pubby?style=flat&logo=Github" style="display: inline-block"></a>
+        </span>
+      </td>
+      <td>
+        A batteries-included library with a simple API that allows you to easily plug <a href="https://www.w3.org/TR/activitypub/" target="_blank">ActivityPub</a> support into your website. It power's <a href="https://git.fabiomanganiello.com/madblog" target="_blank">Madblog</a>'s ActivityPub integration.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">
+        <span style="display: block; margin-top: 0.5em">
+          <a href="https://git.fabiomanganiello.com/webmentions" target="_blank"><b>🔗 Webmentions</b></a>
+        </span>
+        <span style="display: block; margin-top: 0.5em">
+          <a href="https://github.com/blacklight/webmentions"><img alt="Github stars" src="https://img.shields.io/github/stars/blacklight/webmentions?style=flat&logo=Github" style="display: inline-block"></a>
+        </span>
+      </td>
+      <td>
+        A batteries-included library with a simple API that allows you to easily plug <a href="https://www.w3.org/TR/webmention/" target="_blank">Webmentions</a> support into your website. It power's <a href="https://git.fabiomanganiello.com/madblog" target="_blank">Madblog</a>'s Webmentions integration.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">
+        <span style="display: block; margin-top: 0.5em">
+          <a href="https://github.com/blacklight/micmon" target="_blank"><b>🎤 Micmon</b></a>
+        </span>
+        <span style="display: block; margin-top: 0.5em">
+          <a href="https://github.com/blacklight/micmon"><img alt="Github stars" src="https://img.shields.io/github/stars/blacklight/micmon?style=flat&logo=Github" style="display: inline-block"></a>
+        </span>
+      </td>
+      <td>
+        A general-purpose Python library and set of tools for audio detection through Fourier analysis and Tensorflow.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">
+        <span style="display: block; margin-top: 0.5em">
+          <a href="https://github.com/blacklight/theremin" target="_blank"><b>∿ Theremin</b></a>
+        </span>
+        <span style="display: block; margin-top: 0.5em">
+          <a href="https://github.com/blacklight/theremin"><img alt="Github stars" src="https://img.shields.io/github/stars/blacklight/theremin?style=flat&logo=Github" style="display: inline-block"></a>
+        </span>
+      </td>
+      <td>
+        A contactless, hands-in-air digital implementation of a <a href="https://en.wikipedia.org/wiki/Theremin" target="_blank">Theremin</a> musical instrument through a Leap Motion device.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">
+        <span style="display: block; margin-top: 0.5em">
+          <a href="https://github.com/blacklight/Snort_AIPreproc" target="_blank"><b>👣 Snort_AIPreproc</b></a>
+        </span>
+        <span style="display: block; margin-top: 0.5em">
+          <a href="https://github.com/blacklight/Snort_AIPreproc"><img alt="Github stars" src="https://img.shields.io/github/stars/blacklight/Snort_AIPreproc?style=flat&logo=Github" style="display: inline-block"></a>
+        </span>
+      </td>
+      <td>
+        A machine learning module for the intrusion detection system Snort that removes the noise from the logs, clusters similar alerts together, finds common causal links between alerts and predicts the next step in a multi-step attack scenario.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">
+        <span style="display: block; margin-top: 0.5em">
+          <a href="https://github.com/blacklight/fsom" target="_blank"><b>fsom</b></a>
+        </span>
+        <span style="display: block; margin-top: 0.5em">
+          <a href="https://github.com/blacklight/fsom"><img alt="Github stars" src="https://img.shields.io/github/stars/blacklight/fsom?style=flat&logo=Github" style="display: inline-block"></a>
+        </span>
+      </td>
+      <td>
+        A C library for managing <a href="https://en.wikipedia.org/wiki/Self-organizing_map" target="_blank">Self-Organizing Maps</a>.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">
+        <span style="display: block; margin-top: 0.5em">
+          <a href="https://en.wikipedia.org/wiki/Self-organizing_map" target="_blank"><b>fkmeans</b></a>
+        </span>
+        <span style="display: block; margin-top: 0.5em">
+          <a href="https://github.com/blacklight/fkmeans"><img alt="Github stars" src="https://img.shields.io/github/stars/blacklight/fkmeans?style=flat&logo=Github" style="display: inline-block"></a>
+        </span>
+      </td>
+      <td>
+        A C library to perform <a href="https://en.wikipedia.org/wiki/K-means_clustering" target="_blank">K-means clustering</a>.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">
+        <span style="display: block; margin-top: 0.5em">
+          <a href="https://github.com/BlackLight/Voxifera" target="_blank"><b>🗣️ Voxifera</b></a>
+        </span>
+        <span style="display: block; margin-top: 0.5em">
+          <a href="https://github.com/blacklight/Voxifera"><img alt="Github stars" src="https://img.shields.io/github/stars/blacklight/Voxifera?style=flat&logo=Github" style="display: inline-block"></a>
+        </span>
+      </td>
+      <td>
+        (Probably) one of the earliest examples of voice assistants I'm aware of - I built it back in 2008 but it's largely discontinued now.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### 📑 Blogs
 
