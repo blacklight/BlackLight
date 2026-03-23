@@ -71,7 +71,7 @@ GCS/CM/E/MU d-- C++$ UL++++$ P++ L+++$ E--- W+++ N+++ w--- M-- PS++ PE- Y++ PGP+
           You can run Madblog on top of an Obsidian vault, a Nextcloud shared directory, a git clone, and much more.
         </p>
         <p>
-          It also powers <a href="https://fabiomanganiello" target="_blank">my home page</a>, <a href="https://blog.fabiomanganiello.com" target="_blank">my blog</a> and the <a href="https://blog.platypush.tech" target="_blank">Platypush blog</a>.
+          It also powers <a href="https://fabiomanganiello.com" target="_blank">my home page</a>, <a href="https://blog.fabiomanganiello.com" target="_blank">my blog</a> and the <a href="https://blog.platypush.tech" target="_blank">Platypush blog</a>.
         </p>
       </td>
     </tr>
