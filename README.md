@@ -53,7 +53,7 @@ GCS/CM/E/MU d-- C++$ UL++++$ P++ L+++$ E--- W+++ N+++ w--- M-- PS++ PE- Y++ PGP+
     </tr>
     <tr>
       <td style="text-align: center">
-        <p></p><a href="https://git.fabiomanganiello.com/songhive"><b>▶️ Songhive</b></a></p>
+        <p></p><a href="https://github.com/blacklight/songhive"><b>▶️ Songhive</b></a></p>
         <p><a href="https://github.com/blacklight/songhive"><img alt="Github stars" src="https://img.shields.io/github/stars/blacklight/songhive?style=flat&logo=Github" style="display: inline-block"></a></p>
       </td>
       <td>
