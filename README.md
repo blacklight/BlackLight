@@ -1,6 +1,6 @@
 [![BlackLight's GitHub stats](https://raw.githubusercontent.com/blacklight/github-stats/master/generated/overview.svg)](https://github.com/blacklight/github-stats)
 ![My language stats](https://raw.githubusercontent.com/blacklight/github-stats/master/generated/languages.svg)
-[![Github profile trophys](https://s3.fabiomanganiello.com/fabio/img/github-trophys.svg?v=12)](https://github.com/blacklight/github-profile-trophy)
+[![Github profile trophys](https://s3.fabiomanganiello.com/fabio/img/github-trophys.svg?v=13)](https://github.com/blacklight/github-profile-trophy)
 [![committers.top badge](https://user-badge.committers.top/netherlands/blacklight.svg)](https://user-badge.committers.top/netherlands/blacklight)
 
 [![Home](https://img.shields.io/badge/-Home-dddd22?logo=google-home)](https://fabiomanganiello.com)
@@ -29,7 +29,7 @@ GCS/CM/E/MU d-- C++$ UL++++$ P++ L+++$ E--- W+++ N+++ w--- M-- PS++ PE- Y++ PGP+
     <tr>
       <td style="text-align: center">
         <p>
-          <a href="https://git.platypush.tech/platypush"><b>⚙️ Platypush</b></a>
+          <a href="https://github.com/blacklight/platypush"><b>⚙️ Platypush</b></a>
         </p>
         <p>
           <a href="https://github.com/blacklight/platypush"><img alt="Github stars" src="https://img.shields.io/github/stars/blacklight/platypush?style=flat&logo=Github" style="display: inline-block"></a>
@@ -89,7 +89,7 @@ GCS/CM/E/MU d-- C++$ UL++++$ P++ L+++$ E--- W+++ N+++ w--- M-- PS++ PE- Y++ PGP+
     <tr>
       <td style="text-align: center">
         <p>
-          <a href="https://git.fabiomanganiello.com/gpstracker" target="_blank"><b>📍 GPSTracker</b></a>
+          <a href="https://github.com/blacklight/gpstracker" target="_blank"><b>📍 GPSTracker</b></a>
         </p>
         <p>
           <a href="https://github.com/blacklight/gpstracker"><img alt="Github stars" src="https://img.shields.io/github/stars/blacklight/gpstracker?style=flat&logo=Github" style="display: inline-block"></a>
@@ -115,7 +115,7 @@ GCS/CM/E/MU d-- C++$ UL++++$ P++ L+++$ E--- W+++ N+++ w--- M-- PS++ PE- Y++ PGP+
     <tr>
       <td style="text-align: center">
         <p>
-          <a href="https://git.fabiomanganiello.com/pubby" target="_blank"><b>🌐 Pubby</b></a>
+          <a href="https://github.com/blacklight/pubby" target="_blank"><b>🌐 Pubby</b></a>
         </p>
         <p>
           <a href="https://github.com/blacklight/pubby"><img alt="Github stars" src="https://img.shields.io/github/stars/blacklight/pubby?style=flat&logo=Github" style="display: inline-block"></a>
@@ -128,7 +128,7 @@ GCS/CM/E/MU d-- C++$ UL++++$ P++ L+++$ E--- W+++ N+++ w--- M-- PS++ PE- Y++ PGP+
     <tr>
       <td style="text-align: center">
         <p>
-          <a href="https://git.fabiomanganiello.com/webmentions" target="_blank"><b>🔗 Webmentions</b></a>
+          <a href="https://github.com/blacklight/webmentions" target="_blank"><b>🔗 Webmentions</b></a>
         </p>
         <p>
           <a href="https://github.com/blacklight/webmentions"><img alt="Github stars" src="https://img.shields.io/github/stars/blacklight/webmentions?style=flat&logo=Github" style="display: inline-block"></a>
