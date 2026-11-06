@@ -1,6 +1,6 @@
 [![BlackLight's GitHub stats](https://raw.githubusercontent.com/blacklight/github-stats/master/generated/overview.svg)](https://github.com/blacklight/github-stats)
 ![My language stats](https://raw.githubusercontent.com/blacklight/github-stats/master/generated/languages.svg)
-[![Github profile trophys](https://s3.fabiomanganiello.com/fabio/img/github-trophys.svg?v=18)](https://github.com/blacklight/github-profile-trophy)
+[![Github profile trophys](https://s3.fabiomanganiello.com/fabio/img/github-trophys.svg?v=19)](https://github.com/blacklight/github-profile-trophy)
 [![committers.top badge](https://user-badge.committers.top/netherlands/blacklight.svg)](https://user-badge.committers.top/netherlands/blacklight)
 
 [![Home](https://img.shields.io/badge/-Home-dddd22?logo=google-home)](https://fabiomanganiello.com)
@@ -48,6 +48,40 @@ GCS/CM/E/MU d-- C++$ UL++++$ P++ L+++$ E--- W+++ N+++ w--- M-- PS++ PE- Y++ PGP+
         </p>
         <p>
           A powerful <a href="https://git.platypush.tech/platypush/platypush-webext" target="_blank">web extension</a> that allows you to run routines directly from your browser is also available.
+        </p>
+      <td>
+    </tr>
+    <tr>
+      <td style="text-align: center">
+        <p style="display: block; margin-bottom: 0.5em">
+          <a href="https://github.com/blacklight/yonder"><b>📢 Yonder</b></a>
+        </p>
+        <span style="display: block; margin-top: 0.5em">
+          <a href="https://github.com/blacklight/yonder"><img alt="Github stars" src="https://img.shields.io/github/stars/blacklight/yonder?style=flat&logo=Github" style="display: inline-block"></a>
+        </span>
+        </a>
+      </td>
+      <td>
+        <p>
+          A powerful ActivityPub server in Rust, bundled in a single binary.
+          Fully compatible both with Mastodon and Pleroma/Akkoma - and it aims
+          to always be compatible with them. Among the unique perks:
+          <ul>
+            <li>Asynchronous on-demand remote fetch of stats from other instances, which
+            allows you to see what the whole Fediverse sees rather than only
+            the local picture of your instance, while taking way less disk
+            space than other ActivityPub servers (deep threads or social graphs
+            are only expanded on demand).</li>
+            <li>A much easier account migration process - no CSV files and
+            backups involved, only a few clicks to connect the old account over
+            OAuth and initiate a transfer of everything.</li>
+            <li>Very low footprint - it's a single binary that can just be
+            copied around, and it takes way less resources, on parity of graph
+            size and traffic, than comparable ActivityPub servers.</li>
+            <li>Bidirectional compatibility with <a
+            href="https://www.w3.org/TR/webmention/">Webmentions</a></li>
+            <li>Support for custom frontends on a per-user level</li>
+          </ul>
         </p>
       <td>
     </tr>
