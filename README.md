@@ -1,6 +1,6 @@
 [![BlackLight's GitHub stats](https://raw.githubusercontent.com/blacklight/github-stats/master/generated/overview.svg)](https://github.com/blacklight/github-stats)
 ![My language stats](https://raw.githubusercontent.com/blacklight/github-stats/master/generated/languages.svg)
-[![Github profile trophys](https://s3.fabiomanganiello.com/fabio/img/github-trophys.svg?v=20)](https://github.com/blacklight/github-profile-trophy)
+[![Github profile trophys](https://s3.fabiomanganiello.com/fabio/img/github-trophys.svg?v=21)](https://github.com/blacklight/github-profile-trophy)
 [![committers.top badge](https://user-badge.committers.top/netherlands/blacklight.svg)](https://user-badge.committers.top/netherlands/blacklight)
 
 [![Home](https://img.shields.io/badge/-Home-dddd22?logo=google-home)](https://fabiomanganiello.com)
@@ -267,6 +267,7 @@ GCS/CM/E/MU d-- C++$ UL++++$ P++ L+++$ E--- W+++ N+++ w--- M-- PS++ PE- Y++ PGP+
 ### 📩 Contacts
 
 - 🗣️ **Fediverse**: [@fabio@manganiello.tech](https://manganiello.tech/@fabio)
+- 🦋 **Bluesky**: [@fabio.manganiello.tech](https://bsky.app/profile/fabio.manganiello.tech)
 - 📧 **Email**: [fabio@manganiello.tech](mailto:fabio@manganiello.tech)
 - 💬 **XMPP**: [fabio@manganiello.tech](xmpp://fabio@manganiello.tech)
 - 💬 **Matrix**: [@fabio:manganiello.tech](https://matrix.to/#/@fabio:manganiello.tech)
